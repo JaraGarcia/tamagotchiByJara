@@ -1,0 +1,22 @@
+{
+  "name": "codeop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "compile": "sass --watch --no-source-map main.scss style.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaraGarcia/ClaseGit.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaraGarcia/ClaseGit/issues"
+  },
+  "homepage": "https://github.com/JaraGarcia/ClaseGit#readme",
+  "dependencies": {
+    "sass": "^1.54.9"
+  }
+}
